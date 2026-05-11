@@ -17,11 +17,11 @@ A ABC-Fin é uma fintech que opera com:
 
 ## 📚 Atividades Desenvolvidas
 
-- 📘 [Analisar legislação e regulamentos](docs/analisar-legislação-e-regulamentos)  
-- 📘 [Identificar objetivos](docs/identificar-objetivos)  
-- 📘 [Relacionar diretrizes](docs/relacionar-diretrizes)  
-- 📘 [Justificar princípios](docs/justificar-princípios)  
-- 📜 [Criar POSIC – Política Corporativa de Segurança da Informação](docs/criacao-da-POSIC)  
+- 📘 [Analisar legislação e regulamentos](docs/1-analisar-legislação-e-regulamentos.md)  
+- 📘 [Identificar objetivos](docs/2-identificar-objetivos.md)  
+- 📘 [Relacionar diretrizes](docs/3-relacionar-diretrizes.md)  
+- 📘 [Justificar princípios](docs/justificar-princípios.md)  
+- 📜 [Criar POSIC – Política Corporativa de Segurança da Informação](docs/5-criacao-da-POSIC.md)  
 
 ---
 
