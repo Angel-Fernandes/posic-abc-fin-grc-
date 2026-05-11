@@ -1,0 +1,13 @@
+# Analisar legislação e regulamentos
+
+## Leis, Regulamentações e Normas
+
+* Lei Geral de Proteção de Dados (LGPD) – Lei Nº 13.709/2018: Esta é a principal lei brasileira que regula a coleta, processamento, armazenamento e compartilhamento de dados pessoais. A política de segurança da informação deve estar em conformidade com os requisitos da LGPD.
+
+* Marco Civil da Internet – Lei Nº 12.965/2014: Define princípios e deveres para o uso da internet no Brasil. Para a ABC-Fin, essa legislação é importante pois regula o funcionamento das aplicações digitais, como o portal web e o aplicativo móvel, além de tratar da proteção de dados e da privacidade dos usuários.
+
+* Resolução CMN Nº 4.893/2021 (Segurança Cibernética – BACEN): Estabelece diretrizes para a segurança cibernética no setor financeiro. Como a ABC-Fin atua como fintech, deve seguir essas orientações para implementar controles de segurança, gestão de riscos e proteção contra incidentes cibernéticos.
+
+* Normas ISO/IEC 27001 e 27002: Essas normas fornecem diretrizes para a implementação de um sistema de Gestão de Segurança da Informação (SGSI), abordando a gestão de riscos, controles de segurança e boas práticas organizacionais, sendo fundamentais para estruturar a política de segurança da empresa.
+
+* Lei do sigilo bancário – Lei complementar Nº 105/2001: Estabelece a obrigatoriedade de proteção das informações financeiras. Para a ABC-Fin, é fundamental garantir a confidencialidade dos dados bancários e transacionais, evitando acessos indevidos e vazamentos de informações sensíveis.
